@@ -1,0 +1,7 @@
+# kit unpack (build material, not part of the entry)
+u-neon-autonomous-fake-horoscopes-for-ai-agents-the-ce9f07a0-kit/
+# session bundle and build report (generated, not part of the entry)
+bundle.tar.gz
+BUILD-REPORT.md
+__pycache__/
+*.pyc
